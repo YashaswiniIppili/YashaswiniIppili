@@ -1,5 +1,5 @@
 Hey there ✌🏻 <br/>
-I'm Yashaswini Ippili, 3rd sem, CSE. Studying at PES University. <br/>
+I'm Yashaswini Ippili, 4th sem, CSE. Studying at PES University. <br/>
 Check out my Portfolio : https://portfolio-liart-nine-63.vercel.app/ <br/>
 Check out my Linkedin : https://www.linkedin.com/in/yashaswini-ippili-0b9147241/  <br/>
 
