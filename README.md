@@ -42,7 +42,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YashaswiniIppili&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://visitcount.itsvg.in/api?id=YashaswiniIppili&icon=5&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=YashaswiniIppili&icon=5&color=10)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
