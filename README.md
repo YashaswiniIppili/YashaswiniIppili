@@ -1,3 +1,4 @@
+![github-header-image](https://github.com/YashaswiniIppili/Data-Analytics/assets/92773216/4d1c80bb-febd-4228-8ac1-77e6ad6cfc12)
 <h1 align="center">Hi 👋, I'm Yashaswini Ippili</h1>
 <h3 align="center">5th Sem Undergrad @ PES University,RR</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
