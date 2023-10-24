@@ -17,7 +17,8 @@
 <br>
 <br>
 <br>
-<h3>Skills</h3>
+
+## ⚒️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=angular,arduino,aws,azure,babel,bootstrap,c,cpp,css,django,docker,express,fastapi,figma,firebase,flask,git,github,html,ai,js,jquery,kafka,latex,linux,matlab,mongodb,mysql,nodejs,php,postman,py,pytorch,r,react,sass,styledcomponents,scala,selenium,svelte,tailwind,ts,vscode,vue)](https://skillicons.dev)
 
