@@ -42,8 +42,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YashaswiniIppili&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-## Profile Views
-[![](https://visitcount.itsvg.in/api?id=YashaswiniIppili&icon=5&color=10)](https://visitcount.itsvg.in)
+## 👁️ Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashaswiniippili&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswiniippili" /> </p>
 
 
 ## 🌐 Socials
