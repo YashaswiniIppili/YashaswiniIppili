@@ -1,4 +1,3 @@
-![Header Image](https://github.com/YashaswiniIppili/YashaswiniIppili/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Yashaswini Ippili</h1>
 <h3 align="center">5th Sem Undergrad @ PES University,RR</h3>
 
@@ -6,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashaswiniippili" alt="yashaswiniippili" /></a> </p>
 
-- 🔭 I’m currently working on **Gen AI projects**
+- 🔭 I’m currently working on **Gen AI Projects**
 
 - 🌱 I’m currently learning **Generative AI, AIML**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-oje1r17h3-yashaswiniippili.vercel.app/](https://my-portfolio-oje1r17h3-yashaswiniippili.vercel.app/)
+- 👯 I’m looking to collaborate on **Gen AI Projects**
 
 - 📫 How to reach me **yashaswini.ippili@gmail.com**
+
+- 📄 Know about my experiences [https://my-portfolio-oje1r17h3-yashaswiniippili.vercel.app/](https://my-portfolio-oje1r17h3-yashaswiniippili.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashaswiniippili&show_icons=true&locale=en&layout=compact" alt="yashaswiniippili" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashaswiniippili&show_icons=true&locale=en" alt="yashaswiniippili" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaswiniippili&" alt="yashaswiniippili" /></p>
