@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/leviarista/github-profile-header-generator/assets/92773216/5573d907-c447-44cb-a904-ac7c0515d3ca)
+![github-header-image](https://github.com/leviarista/github-profile-header-generator/assets/92773216/41f932ca-6eae-440a-a03b-aae0d0f6440b)
 <h1 align="center">Hi 👋, I'm Yashaswini Ippili</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
