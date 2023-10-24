@@ -1,4 +1,4 @@
-[![MasterHead]("C:\Users\yasha\Downloads\github-header-image.png")]
+![Header Image](https://github.com/YashaswiniIppili/YashaswiniIppili/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Yashaswini Ippili</h1>
 <h3 align="center">5th Sem Undergrad @ PES University,RR</h3>
 
