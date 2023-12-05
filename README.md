@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yashaswini.ippili@gmail.com**
 
-- 📄 Know about my experiences [https://my-portfolio-oje1r17h3-yashaswiniippili.vercel.app/](https://my-portfolio-oje1r17h3-yashaswiniippili.vercel.app/)
+- 📄 Know about my experiences [https://my-portfolio-oje1r17h3-yashaswiniippili.vercel.app/](https://yashaswini-ippili.vercel.app/)
 
 <br>
 <br>
