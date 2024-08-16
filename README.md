@@ -20,7 +20,7 @@
 
 ## ⚒️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=angular,arduino,aws,azure,babel,bootstrap,c,cpp,css,django,docker,express,fastapi,figma,firebase,flask,git,github,html,js,jquery,kafka,latex,linux,matlab,mongodb,mysql,nodejs,php,postman,py,pytorch,r,react,sass,styledcomponents,scala,selenium,svelte,tailwind,ts,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,r,py,c,cpp,html,css,latex,django,flask,fastapi,mysql,mongodb,kafka,firebase,aws,gcp,vercel,git,github,bitbucket,vscode,sublime,anaconda,react,bootstrap,tailwind,styledcomponents,figma,postman,selenium,discord,notion)](https://skillicons.dev)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
