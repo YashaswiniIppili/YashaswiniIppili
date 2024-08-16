@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on **Gen AI Projects**
+- 🔭 I’m currently working on **Gen AI Projects & Research**
 
 - 🌱 I’m currently learning **Generative AI, AIML**
 
-- 👯 I’m looking to collaborate on **Gen AI Projects**
+- 👯 I’m looking to collaborate on **Innovative Projects**
 
 - 📫 How to reach me **yashaswini.ippili@gmail.com**
 
